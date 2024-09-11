@@ -1,0 +1,18 @@
+[
+  {
+    "value": "cantar",
+    "checked": true
+  },
+  {
+    "value": "dormir",
+    "checked": true
+  },
+  {
+    "value": "correr",
+    "checked": true
+  },
+  {
+    "value": "pular",
+    "checked": false
+  }
+]
